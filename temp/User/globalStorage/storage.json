@@ -1674,11 +1674,11 @@
             "folder": "file:///home/rosalio/Escritorio/boilerplate-project-timestamp",
             "backupPath": "/home/rosalio/Escritorio/boilerplate-project-timestamp/temp/Backups/d68f6a11f524167737cb78ff3c404171",
             "uiState": {
-                "mode": 0,
-                "x": 173,
-                "y": 66,
-                "width": 1024,
-                "height": 734
+                "mode": 1,
+                "x": 0,
+                "y": 64,
+                "width": 1366,
+                "height": 704
             }
         },
         "openedWindows": []
